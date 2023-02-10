@@ -1,6 +1,6 @@
 # Classificador de Chamados
 
-# O que foi utilizado?
+### O que foi utilizado?
 
 - CountVectorizer.
 - DecisionTreeClassifier.
@@ -16,9 +16,9 @@
 
 Entre outros, mas listei os principais.
   
-# O que foi pedido?
+### O que foi pedido?
   
-**Criar um classificador de chamados aplicando técnicas de PLN**
+#### Criar um classificador de chamados aplicando técnicas de PLN
 ---
 
 A **DinDinAgora** tem um canal de atendimento via chat e precisa classificar os assuntos dos atendimentos para melhorar as tratativas dos chamados dos clientes. O canal recebe textos abertos dos clientes relatando o problema e/ou dúvida e depois é direcionado para algum uma área especialista no assunto para uma melhor tratativa.​
