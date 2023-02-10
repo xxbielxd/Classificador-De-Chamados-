@@ -1,5 +1,23 @@
-# classificador_chamados
- 
+# Classificador de Chamados
+
+# O que foi utilizado?
+
+- CountVectorizer.
+- DecisionTreeClassifier.
+- MultinomialNB.
+- RandomForestClassifier.
+- LogisticRegression.
+- GradientBoostingClassifier.
+- WordNetLemmatizer.
+- RSLPStemmer.
+- TfidfVectorizer
+- MLPClassifier.
+- Deeplearning.
+
+Entre outros, mas listei os principais.
+  
+# O que foi pedido?
+  
 **Criar um classificador de chamados aplicando técnicas de PLN**
 ---
 
